@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\GestioneSpese.EntitiesRepository\GestioneSpese.EntitiesRepository.csproj" />
+    <ProjectReference Include="..\GestioneSpese.RepositoryEF\GestioneSpese.RepositoryEF.csproj" />
+  </ItemGroup>
+
+</Project>

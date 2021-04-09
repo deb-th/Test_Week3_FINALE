@@ -1,0 +1,9 @@
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\bin\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.deps.json
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\bin\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.dll
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\bin\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.pdb
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.dll
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.EntitiesRepository\obj\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.pdb

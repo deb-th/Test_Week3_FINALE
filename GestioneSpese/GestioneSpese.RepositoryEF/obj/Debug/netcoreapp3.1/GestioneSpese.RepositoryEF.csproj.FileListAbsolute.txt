@@ -1,0 +1,15 @@
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\bin\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.dll
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\bin\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.deps.json
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\bin\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.runtimeconfig.json
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\bin\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.runtimeconfig.dev.json
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\bin\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.dll
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\bin\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.pdb
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\bin\Debug\netcoreapp3.1\GestioneSpese.EntitiesRepository.pdb
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.csproj.CopyComplete
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.dll
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.pdb
+C:\Users\deborah.tucci\Desktop\Test Week3 09-04-21\GestioneSpese\GestioneSpese.RepositoryEF\obj\Debug\netcoreapp3.1\GestioneSpese.RepositoryEF.genruntimeconfig.cache
